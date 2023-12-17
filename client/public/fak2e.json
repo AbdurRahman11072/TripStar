@@ -1,0 +1,58 @@
+[
+  {
+    "h_name": "Hotal Nila Chol",
+    "h_discription": "This is the best room in out hotle",
+    "price": 300,
+    "room_size": "32",
+    "room_img": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/france/nice/Hotel-la-Perouse%2C-NIce-small.jpg",
+    "offers": "20",
+    "h_location": "London",
+    "people": "2",
+    "bed": "1",
+    "refund": "NO Refund",
+    "breakfast": "included",
+    "r_avaliable": 20
+  },
+  {
+    "h_name": "Hotal Bangol",
+    "h_discription": "This is the best room in out hotle",
+    "price": 250,
+    "room_size": "16",
+    "room_img": "https://w0.peakpx.com/wallpaper/460/608/HD-wallpaper-hotel-room-hotel-beautiful-art-house-romantic-black-yellow-luxury-rooms-bedrooms-decor-nice-beige-style.jpg",
+    "offers": "20",
+    "h_location": "London",
+    "people": "1",
+    "bed": "1",
+    "refund": "Refund Avaliable",
+    "breakfast": "included",
+    "r_avaliable": 20
+  },
+  {
+    "h_name": "Hotal Sharaton",
+    "h_discription": "This is the best room in out hotle",
+    "price": 150,
+    "room_size": "18",
+    "room_img": "https://www.myboutiquehotel.com/photos/50071/conrad-maldives-rangali-island-mandhoo-152-46540-1110x700.jpg",
+    "offers": "20",
+    "h_location": "London",
+    "people": "2",
+    "bed": "1",
+    "refund": "NO Refund",
+    "breakfast": "included",
+    "r_avaliable": 20
+  },
+  {
+    "h_name": "Kings Royel Hotal",
+    "h_discription": "This is the best room in out hotle",
+    "price": 450,
+    "room_size": "28",
+    "room_img": "https://destinationdeluxe.com/wp-content/uploads/2020/09/Beautiful-Hotels-Designs-Ulaman-Bali-Destination-Deluxe.jpg",
+    "offers": "",
+    "h_location": "London",
+    "people": "3",
+    "bed": "1",
+    "refund": "Refund Avaliable",
+    "breakfast": "included",
+    "r_avaliable": 20
+  }
+]

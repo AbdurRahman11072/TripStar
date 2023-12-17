@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "assinment-11-63419"
+  },
+  "targets": {
+    "assinment-11-63419": {
+      "hosting": {
+        "tr": [
+          "tripstar-assinment-11"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
